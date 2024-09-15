@@ -1,0 +1,4 @@
+BFS: cammino minimo con minor numero di archi
+DFS: cammino più lungo
+DIJKSTRA: dipende dai pesi (può essere corto come lungo)
+
