@@ -2,3 +2,8 @@ BFS: cammino minimo con minor numero di archi
 DFS: cammino più lungo
 DIJKSTRA: dipende dai pesi (può essere corto come lungo)
 
+nx.Graph() (grafo non orientato):
+Rappresenta un grafo non orientato. Questo significa che i collegamenti tra i nodi (gli archi) non hanno una direzione specifica.
+
+nx.DiGraph() (grafo orientato):
+Rappresenta un grafo orientato (o digrafo), dove gli archi hanno una direzione specifica.
